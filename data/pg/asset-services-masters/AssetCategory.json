@@ -1,7 +1,7 @@
 {
     "tenantId": "pg",
     "moduleName": "ASSET",
-    "AssetCategory": [
+    "assetCategory": [
       {
         "name": "Vacant Land",
         "code": "VACANT_LAND",
