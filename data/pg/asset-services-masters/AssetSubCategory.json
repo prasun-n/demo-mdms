@@ -1,7 +1,7 @@
 {
     "tenantId": "pg",
     "moduleName": "ASSET",
-    "assetSubCategory": [
+    "AssetSubCategory": [
       {
         "name": "Roads, streets, lanes",
         "code": "ROADS_STREETS_LANES",
