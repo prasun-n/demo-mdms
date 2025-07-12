@@ -32,7 +32,7 @@
         "districtTenantCode": "pg.citya",
         "blockname": "Narasinghpur",
         "regionName": null,
-        "ulbGrade": "Municipal Corporation",
+        "ulbGrade": "Gram Panchayat",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
         "shapeFileLocation": null,
@@ -40,7 +40,7 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "City A Municipal Corporation",
+      "address": "City A Gram Panchayat",
       "contactNumber": "001-2345876"
     },
     {
@@ -74,7 +74,7 @@
         "districtTenantCode": "pg.cityb",
         "blockname": "Narasinghpur",
         "regionName": null,
-        "ulbGrade": "Municipal Corporation",
+        "ulbGrade": "Gram Panchayat",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
         "shapeFileLocation": null,
@@ -82,7 +82,7 @@
         "code": "107",
         "ddrName": "DDR B"
       },
-      "address": "City B Municipal Corporation Address",
+      "address": "City B Gram Panchayat Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
@@ -109,7 +109,7 @@
         "districtTenantCode": "pg.cityc",
         "blockname": "Narasinghpur",
         "regionName": null,
-        "ulbGrade": "Municipal Corporation",
+        "ulbGrade": "Gram Panchayat",
         "longitude": 73.8722642,
         "latitude": 31.6339793,
         "shapeFileLocation": null,
@@ -117,7 +117,7 @@
         "code": "108",
         "ddrName": "DDR C"
       },
-      "address": "City C Municipal Corporation Address",
+      "address": "City C Gram Panchayat Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
@@ -144,7 +144,7 @@
         "districtTenantCode": "pg.cityd",
         "blockname": "Narasinghpur",
         "regionName": null,
-        "ulbGrade": "Municipal Corporation",
+        "ulbGrade": "Gram Panchayat",
         "longitude": 75.8722642,
         "latitude": 35.6339793,
         "shapeFileLocation": null,
@@ -152,7 +152,7 @@
         "code": "109",
         "ddrName": "DDR D"
       },
-      "address": "City D Municipal Corporation Address",
+      "address": "City D Gram Panchayat Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
@@ -179,7 +179,7 @@
         "districtTenantCode": "pg.citye",
         "blockname": "Narasinghpur",
         "regionName": null,
-        "ulbGrade": "Municipal Corporation",
+        "ulbGrade": "Gram Panchayat",
         "longitude": 76.8722642,
         "latitude": 36.6339793,
         "shapeFileLocation": null,
@@ -187,7 +187,7 @@
         "code": "110",
         "ddrName": "DDR E"
       },
-      "address": "City E Municipal Corporation Address",
+      "address": "City E Gram Panchayat Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
@@ -220,7 +220,7 @@
         "code": "0",
         "ddrName": null
       },
-      "address": "State Municipal Corporation",
+      "address": "State Gram Panchayat",
       "contactNumber": "0978-7645345"
     }
   ]
