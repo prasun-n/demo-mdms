@@ -1,0 +1,14 @@
+{
+  "tenantId": "pg",
+  "moduleName": "wq-service",
+  "BiologicalParameter": [
+    {
+      "code": "TotalColiform",
+      "name": "Total Coliform (CFU/100 ml)"
+    },
+    {
+      "code": "FecalColiform",
+      "name": "Fecal Coliform (E. coli)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "tenantId": "pg",
+  "moduleName": "wq-service",
+  "SourceType": [
+    {
+      "code": "Borewell",
+      "name": "Borewell"
+    },
+    {
+      "code": "Handpump",
+      "name": "Hand Pump"
+    },
+    {
+      "code": "Dugwell",
+      "name": "Dug well"
+    },
+    {
+      "code": "Surfacewater",
+      "name": "Surface water (river, lake, etc.)"
+    },
+    {
+      "code": "Taphouseholdconnection",
+      "name": "Tap/Household connection"
+    },
+    {
+      "code": "StorageTank",
+      "name": "Storage tank"
+    }
+  ]
+}

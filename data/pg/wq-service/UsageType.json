@@ -1,0 +1,26 @@
+{
+  "tenantId": "pg",
+  "moduleName": "wq-service",
+  "UsageType": [
+    {
+      "code": "Drinking",
+      "name": "Drinking"
+    },
+    {
+      "code": "Cooking",
+      "name": "Cooking"
+    },
+    {
+      "code": "Washing",
+      "name": "Washing"
+    },
+    {
+      "code": "Livestock",
+      "name": "Livestock"
+    },
+    {
+      "code": "Irrigation",
+      "name": "Irrigation"
+    }
+  ]
+}
