@@ -9,12 +9,12 @@
       "department": "DEPT_1",
       "slaHours": 336,
       "menuPath": "StreetLights",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "NonSweepingOfRoad",
       "name": "Non sweeping of road",
-      "active": false,
+      "active": true,
       "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
       "department": "DEPT_3",
       "slaHours": 336,
@@ -28,7 +28,7 @@
       "department": "DEPT_1",
       "slaHours": 336,
       "menuPath": "StreetLights",
-      "active": false,
+      "active": true,
       "order": 1
     },
     {
@@ -38,7 +38,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
-      "active": false,
+      "active": true,
       "order": 4
     },
     {
@@ -48,7 +48,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "BurningOfGarbage",
@@ -57,7 +57,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Garbage",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "OverflowingOrBlockedDrain",
@@ -66,7 +66,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "Drains",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "illegalDischargeOfSewage",
@@ -75,7 +75,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "BlockOrOverflowingSewage",
@@ -84,7 +84,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": false,
+      "active": true,
       "order": 2
     },
     {
@@ -94,7 +94,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "NoWaterSupply",
@@ -103,7 +103,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "DirtyWaterSupply",
@@ -112,7 +112,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "BrokenWaterPipeOrLeakage",
@@ -121,7 +121,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": false,
+      "active": true,
       "order": 3
     },
     {
@@ -131,7 +131,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "WaterandSewage",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "DamagedRoad",
@@ -140,7 +140,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "WaterLoggedRoad",
@@ -149,7 +149,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "ManholeCoverMissingOrDamaged",
@@ -158,7 +158,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "DamagedOrBlockedFootpath",
@@ -167,7 +167,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "ConstructionMaterialLyingOntheRoad",
@@ -176,7 +176,7 @@
       "department": "DEPT_4",
       "slaHours": 336,
       "menuPath": "RoadsAndFootpaths",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "RequestSprayingOrFoggingOperation",
@@ -185,7 +185,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Mosquitos",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "StrayAnimals",
@@ -194,7 +194,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "DeadAnimals",
@@ -203,7 +203,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "Animals",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "DirtyOrSmellyPublicToilets",
@@ -212,7 +212,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "PublicToiletIsDamaged",
@@ -221,7 +221,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "NoWaterOrElectricityinPublicToilet",
@@ -230,7 +230,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "PublicToilets",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "IllegalShopsOnFootPath",
@@ -239,7 +239,7 @@
       "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "IllegalConstructions",
@@ -248,7 +248,7 @@
       "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "IllegalParking",
@@ -257,7 +257,7 @@
       "department": "DEPT_6",
       "slaHours": 336,
       "menuPath": "LandViolations",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "IllegalCuttingOfTrees",
@@ -266,7 +266,7 @@
       "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Trees",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "CuttingOrTrimmingOfTreeRequired",
@@ -275,7 +275,7 @@
       "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Trees",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "OpenDefecation",
@@ -284,7 +284,7 @@
       "department": "DEPT_3",
       "slaHours": 336,
       "menuPath": "OpenDefecation",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "ParkRequiresMaintenance",
@@ -293,7 +293,7 @@
       "department": "DEPT_5",
       "slaHours": 336,
       "menuPath": "Parks",
-      "active": false
+      "active": true
     },
     {
       "serviceCode": "Others",
@@ -302,413 +302,62 @@
       "department": "DEPT_10",
       "slaHours": 336,
       "menuPath": "",
-      "active": false,
+      "active": true,
       "order": 6
     },
     {
-      "serviceCode": "PropertyTaxAssessment",
+    "serviceCode": "PropertyTaxAssessment",
       "name": "Property Tax Assessment",
       "keywords": "property, tax, Assessment",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
-      "active": false
-    },
-    {
-      "serviceCode": "PropertyTaxAppealPetition",
+      "active": true
+},
+{
+    "serviceCode": "PropertyTaxAppealPetition",
       "name": "Property Tax Appeal Petition",
       "keywords": "property, tax, appeal, petition",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
-      "active": false
-    },
-    {
-      "serviceCode": "ChangeOfTitleOrOwnershipOfProperty",
+      "active": true
+},
+{
+    "serviceCode": "ChangeOfTitleOrOwnershipOfProperty",
       "name": "Change of title/ownership of property",
       "keywords": "property, ownership, title, change",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
-      "active": false
-    },
-    {
-      "serviceCode": "DealerRegistration",
+      "active": true
+},
+{
+    "serviceCode": "DealerRegistration",
       "name": "Dealer registration(Cess)",
       "keywords": "property, dealer, registration",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
-      "active": false
-    },
-    {
-      "serviceCode": "DealerAssessment",
+      "active": true
+},
+{
+    "serviceCode": "DealerAssessment",
       "name": "Dealer Assessment",
       "keywords": "property, dealer, assessment",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
-      "active": false
-    },
-    {
-      "serviceCode": "RefundClaims",
+      "active": true
+},
+{
+    "serviceCode": "RefundClaims",
       "name": "Refund Claims",
       "keywords": "property, refund, Claims",
       "department": "DEPT_13",
       "slaHours": 336,
       "menuPath": "PropertyTax",
-      "active": false
-    },
-    {
-      "serviceCode": "LeakageOfMains",
-      "name": "Leakage of Mains",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "IVDN",
       "active": true
-    },
-    {
-      "serviceCode": "LeakageOfValves",
-      "name": "Leakage of Valves",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "IVDN",
-      "active": true
-    },
-    {
-      "serviceCode": "DefunctAirValves",
-      "name": "Defunct Air Valves",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "IVDN",
-      "active": true
-    },
-    {
-      "serviceCode": "InadequateWaterPressure",
-      "name": "Inadequate water pressure",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "IVDN",
-      "active": true
-    },
-    {
-      "serviceCode": "BrokenOrJammedValves",
-      "name": "Broken or Jammed Valves",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "IVDN",
-      "active": true
-    },
-    {
-      "serviceCode": "BlockedOrCloggedPipes",
-      "name": "Blocked or Clogged Pipes",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "IVDN",
-      "active": true
-    },
-    {
-      "serviceCode": "FaultyWaterMeters",
-      "name": "Faulty water meters",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "IVDN",
-      "active": true
-    },
-    {
-      "serviceCode": "PhysicalDamageDistributionNetwork ",
-      "name": "Physical damage to the distribution network ",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "IVDN",
-      "active": true
-    },
-    {
-      "serviceCode": "InsufficientStorageFacilities",
-      "name": "Insufficient storage facilities",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "IVDN",
-      "active": true
-    },
-    {
-      "serviceCode": "IrregularWSSchedules",
-      "name": "Irregular water supply schedules",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "IVDN",
-      "active": true
-    },
-    {
-      "serviceCode": "PumpHouse",
-      "name": "Pump House",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "PumpRelated",
-      "active": true
-    },
-    {
-      "serviceCode": "PumpsAndMotor",
-      "name": "Pumps and Motor",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "PumpRelated",
-      "active": true
-    },
-    {
-      "serviceCode": "PumpFailures",
-      "name": "Pump Failures",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "PumpRelated",
-      "active": true
-    },
-    {
-      "serviceCode": "FrequentPowerOutages",
-      "name": "Frequent power outages",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "PumpRelated",
-      "active": true
-    },
-    {
-      "serviceCode": "InadequateRoutineMaintenance",
-      "name": "Inadequate routine maintenance",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "PumpRelated",
-      "active": true
-    },
-    {
-      "serviceCode": "SealingAndLeakIssues",
-      "name": "Sealing and Leak Issues",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "PumpRelated",
-      "active": true
-    },
-    {
-      "serviceCode": "ControlSystemFailuresGP",
-      "name": "Control System Failures GP",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "PumpRelated",
-      "active": true
-    },
-    {
-      "serviceCode": "TamperingMetersAlterReadings",
-      "name": "Tampering with meters to alter readings",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "BulkFlowMeters",
-      "active": true
-    },
-    {
-      "serviceCode": "IncorrectInstallationMeters",
-      "name": "Incorrect installation of meters",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "BulkFlowMeters",
-      "active": true
-    },
-    {
-      "serviceCode": "MechanicalWearTear",
-      "name": "Mechanical Wear and Tear",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "BulkFlowMeters",
-      "active": true
-    },
-    {
-      "serviceCode": "UnauthorizedAccessMeterData",
-      "name": "Unauthorized access to meter data",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "BulkFlowMeters",
-      "active": true
-    },
-    {
-      "serviceCode": "HCLeakageOfPipeline",
-      "name": "Leakage of pipeline",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "LeakageOfPipeline",
-      "name": "Leakage of pipeline",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "HCLeakageOfValves",
-      "name": "Leakage of Valves",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "HCDefunctAirValves",
-      "name": "Defunct Air Valves",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "DefunctConsumerWaterMeter ",
-      "name": "Defunct Consumer Water Meter ",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "TamperingConsumerWaterMeter",
-      "name": "Tampering Consumer Water Meter",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "DefaultingTariffPayment",
-      "name": "Defaulting Tariff Payment",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "ChangeHTCLocation",
-      "name": "Change of HTC location",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "MalpracticesStealingWater",
-      "name": "Malpractices and stealing of water",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "IllegalConnectionsWaterNetwork",
-      "name": "Illegal connections to the water networks",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "PoorWaterQuality",
-      "name": "Poor water quality",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "InconsistentWaterSupply",
-      "name": "Inconsistent water supply",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "PressureFluctuations",
-      "name": "Pressure Fluctuations",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "WaterSupplyScheduling",
-      "name": "Water Supply Scheduling",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "PoorCustomerService",
-      "name": "Poor Customer Service",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "DelayedRepairs",
-      "name": "Delayed Repairs",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "ContaminationWaterSource",
-      "name": "Contamination of water source",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    },
-    {
-      "serviceCode": "ConcernsAboutWaterQualityAfterTreatment",
-      "name": "Concerns about water quality after treatment of village water purification plants",
-      "keywords": "",
-      "department": "DEPT_13",
-      "slaHours": 336,
-      "menuPath": "HouseConnection",
-      "active": true
-    }
-  ]
+}
+]
 }

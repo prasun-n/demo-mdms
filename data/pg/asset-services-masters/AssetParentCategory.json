@@ -1,7 +1,7 @@
 {
     "tenantId": "pg",
     "moduleName": "ASSET",
-    "AssetParentCategory": [
+    "assetParentCategory": [
       {
         "name": "Land",
         "code": "LAND",

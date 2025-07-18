@@ -1,7 +1,7 @@
 {
     "tenantId": "pg",
     "moduleName": "ASSET",
-    "AssetClassification": [
+    "assetClassification": [
       {
         "name": "Movable",
         "code": "MOVABLE",

@@ -777,14 +777,6 @@
         {
             "format": "IND-[cy:yyyy-MM-dd]-[SEQ_ADDRESS_IND]",
             "idname": "individual.id"
-        },
-        {
-            "format": "WQS/[fy:yyyy-yy]/[eg_wq_application_id_seq]",
-            "idname": "waterquality.sample.application.id"
-        },
-        {
-            "format": "WQT/[fy:yyyy-yy]/[eg_wq_application_id_seq]",
-            "idname": "waterquality.test.application.id"
         }
     ]
 }
