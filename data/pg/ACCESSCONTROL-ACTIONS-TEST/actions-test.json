@@ -20270,6 +20270,19 @@
           "code": "null",
           "path": "",
           "navigationURL": ""
+      },
+      {
+          "id": 2984,
+          "name": "Chatbot",
+          "url": "/chat",
+          "parentModule": "",
+          "displayName": "",
+          "orderNumber": 0,
+          "enabled": true,
+          "serviceCode": "Chatbot",
+          "code": "null",
+          "path": "",
+          "navigationURL": ""
       }         	
   ]
 }
