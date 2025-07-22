@@ -20280,19 +20280,19 @@
       "id": 2985,
       "name": "CS_HOME_SOLID_WST",
       "url": "digit-ui-card",
-      "displayName": "Solid Waster",
+      "displayName": "Solid Waste",
       "orderNumber": 1,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "",
-      "leftIcon": "PGRIcon",
+      "navigationURL": "/digit-ui/citizen/solidwaste/search",
+      "leftIcon": "action:bin",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pgr-home"
+      "sidebarURL": ""
     }
   ]
 }
