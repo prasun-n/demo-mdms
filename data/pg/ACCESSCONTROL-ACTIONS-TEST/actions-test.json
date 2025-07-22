@@ -20283,7 +20283,7 @@
       "displayName": "Solid Waste",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
       "code": "",
       "path": "",
